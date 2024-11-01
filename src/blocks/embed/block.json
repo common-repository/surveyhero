@@ -1,0 +1,20 @@
+{
+  "name": "surveyhero/embed",
+  "category": "embed",
+  "attributes": {
+    "id": {
+      "type": "string"
+    },
+    "code": {
+      "type": "string"
+    },
+    "script_url": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "multiple": false,
+    "html": false,
+    "reusable": false
+  }
+}

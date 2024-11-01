@@ -1,0 +1,47 @@
+.surveyhero-embed-settings {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
+  .surveyhero-embed-settings .components-placeholder__input {
+    width: 100%;
+    min-height: 100px; }
+  .surveyhero-embed-settings .surveyhero-embed-frame {
+    min-height: 150px; }
+  .surveyhero-embed-settings .surveyhero-editor-box {
+    padding: 20px;
+    background: #f3f3f3;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: center;
+        justify-content: center; }
+  .surveyhero-embed-settings .surveyhero-error-box {
+    text-align: center; }
+    .surveyhero-embed-settings .surveyhero-error-box h2 {
+      font-size: 17px !important;
+      padding: 0 !important;
+      font-weight: 600;
+      margin: 15px 0 7px; }
+    .surveyhero-embed-settings .surveyhero-error-box p {
+      font-size: 14px !important;
+      margin-bottom: 15px; }
+  .surveyhero-embed-settings .surveyhero-error-icon {
+    fill: #ccc; }
+  .surveyhero-embed-settings .surveyhero-embed-label {
+    font-weight: 400;
+    font-size: 14px !important;
+    display: inline-block;
+    width: 100%;
+    text-align: center; }
+
+#surveyhero-embed-code {
+  margin: 20px 0;
+  -ms-flex-positive: 0;
+      flex-grow: 0;
+  max-width: 400px; }
+
+.surveyhero-editor-box {
+  min-height: 220px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
